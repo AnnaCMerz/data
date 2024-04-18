@@ -800,19 +800,19 @@ University of North Carolina at Chapel Hill
                         some of the details of these figures are very lightly rendered making some
                         of their features barely visible. One standing, bearded male figure faces
                         left with his left arm outstretched and left hand pointing towards the
-                        design's central figure (Cicero's wreathed head). This figure may be the
-                        centurion, or a Roman soldier following Mark Antony's orders to find and
-                        capture Cicero, who was declared an enemy of the state following Caesar's
-                        death. This figure is wears a striking red cloak, plumed helmet, armor,
+                        design's central figure (Cicero's wreathed head). This figure may be a
+                        centurion, or a Roman soldier, following Mark Antony's orders to find and
+                        capture Cicero; Cicero was declared an enemy of the state following Caesar's
+                        death. This soldier figure wears a striking red cloak, plumed helmet, armor,
                         knee-length tunic or skirt, and sandals in the typical costume of a Roman
                         soldier. The figure's right arm hangs by his side, and he may be holding a
                         sword in his right hand, though the details of this aspect of the figure are
                         unclear--the sword may belong to one of the soldiers behind him instead. The
-                        figure's right leg is bent at the knee with his right foot clearly lifted in
-                        the air, so that his left leg and foot support his body. The figure may be
+                        figure's right leg is bent at the knee with his right foot clearly lifted, 
+                        so that his left leg and foot support his body. The figure may be
                         in the act of moving or walking towards the center of the design. A group of
                         at least four (possibly more) Roman soldiers stand just behind and to the
-                        left of the centurion. The details of three of these figures are very
+                        left of the soldier in the foreground. The details of three of these figures are very
                         difficult to distinguish, though it seems clear that all have similar
                         characteristics. These menacing figures all face left and all wear armor,
                         helmets, and sandals with legs bare below the knee. The foremost soldier in
@@ -825,11 +825,11 @@ University of North Carolina at Chapel Hill
                         suggest a landscape or a seascape which is barely visible. Under the
                         centurion's outstretched right arm and pointing hand, the trunks and
                         branches of at least two trees are visible, probably meant to indicate the
-                        forest through which Cicero attempted to flee Mark Antony's men toward the
-                        port of Gaeta. At the top of the left margin some vegetation is pictured in
+                        forest through which Cicero attempted to flee toward the
+                        port of Gaeta. At the top of the left margin, some vegetation is pictured in
                         the foreground of the design. These may be palm fronds or another type of
                         indeterminate vegetation. To the right of the central wreath, a Roman
-                        soldier with the red cloak and red plumed helmet stands facing away. His
+                        soldier with a red cloak and red plumed helmet stands facing away. His
                         right arm is raised above his head, with a sword grasped in his right fist.
                         This soldier is in the act of beheading another figure. His left arm is bent
                         at the elbow so that his left hand holds a scabbard behind his back. He is
@@ -839,16 +839,15 @@ University of North Carolina at Chapel Hill
                         executed by beheading. This figure is depicted bending or leaning forward
                         and facing right, with his bare head and neck prominently visible, and
                         situated leaning over the long arm of a structure or vehicle of some sort
-                        (probably the litter, or Lectica, from which he is said to have leaned out
-                        of as a surrender to his execution). The lectica is depicted with long arms
-                        for Cicero's slaves to support the structure both in front and behind the
-                        conveyance. The Lectica is pictured with a platform and seat for a rider to
+                        (probably the litter, or Lectica, from which he surrendered to his executioner). 
+                        The lectica is depicted with long wooden arms, which 
+                        Cicero's slaves used to carry the structure. The Lectica is pictured with a platform and seat for a rider to
                         rest in, and a curtained cover or roof with cloth drapery is also visible in
                         this image. To the left of the executioner, a figure in a tunic is pictured
                         standing between the arms of the lectica. This figure faces left, with his
                         head bent and face covered. He is likely male, and appears to be wearing a
                         short tunic and sandals. He is likely one of Cicero's slaves, hiding his
-                        face as Cicero is executed. In the top right of the design, some
+                        face as Cicero is executed. In the top right, some
                         indeterminate vegetation is visible just below the right corner of the
                         design. In the central space, and at the top right of the design is pictured a
                         nude male figure who appears to preside over the execution of Cicero. This
@@ -893,7 +892,7 @@ University of North Carolina at Chapel Hill
                             shape surrounding Marcus Tullius Cicero's head and neck entirely.
                         </illusobjdesc>
                     </component>
-                    <component type="figure" location="C">
+                    <component type="figure" location="AC">
                         <characteristic>standing</characteristic>
                         <characteristic>facing left</characteristic>
                         <characteristic>male</characteristic>
@@ -921,16 +920,16 @@ University of North Carolina at Chapel Hill
                             left with his left arm outstretched and left hand pointing towards the
                             design's central figure (Cicero's wreathed head). This figure may be the
                             centurion, or a Roman soldier following Mark Antony's orders to find and
-                            capture Cicero, who was declared an enemy of the state following
-                            Caesar's death. This figure is wears a striking red cloak, plumed
-                            helmet, armor, knee-length tunic or skirt, and sandals in the typical
-                            costume of a Roman soldier. The figure's right arm hangs by his side,
-                            and he may be holding a sword in his right hand, though the details of
-                            this aspect of the figure are unclear--the sword may belong to one of
-                            the soldiers behind him instead. The figure's right leg is bent at the
-                            knee with his right foot clearly lifted in the air, so that his left leg
-                            and foot support his body. The figure may be in the act of moving or
-                            walking towards the center of the design.</illusobjdesc>
+                            capture Cicero; Cicero was declared an enemy of the state following Caesar's
+                        death. This soldier figure wears a striking red cloak, plumed helmet, armor,
+                        knee-length tunic or skirt, and sandals in the typical costume of a Roman
+                        soldier. The figure's right arm hangs by his side, and he may be holding a
+                        sword in his right hand, though the details of this aspect of the figure are
+                        unclear--the sword may belong to one of the soldiers behind him instead. The
+                        figure's right leg is bent at the knee with his right foot clearly lifted, 
+                        so that his left leg and foot support his body. The figure may be
+                        in the act of moving or walking towards the center of the design. 
+ </illusobjdesc>
                     </component>
                     <component type="figure" location="C">
                         <characteristic>group of figures</characteristic>
@@ -947,17 +946,18 @@ University of North Carolina at Chapel Hill
                         <characteristic>sandal</characteristic>
                         <characteristic>arm bent at elbow</characteristic>
                         <characteristic>menacing</characteristic>
-                        <illusobjdesc>A group of at least four (possibly more) Roman soldiers stand
-                            just behind and to the left of the centurion. The details of three of
-                            these figures are very difficult to distinguish, though it seems clear
-                            that all have similar characteristics. These menacing figures all face
-                            left and all wear armor, helmets, and sandals with legs bare below the
-                            knee. The foremost soldier in this group of figures is pictured with his
-                            right arm bent at the elbow, and grasping a spear or staff in his right
-                            hand, the base of which rests on the ground. The figure directly behind
-                            and to the right of this soldier figure may carry a shield, though the
-                            details are not clear. The point of at least one more spear or staff is
-                            visible over the heads of this group of soldiers.</illusobjdesc>
+                        <illusobjdesc>A group of
+                        at least four (possibly more) Roman soldiers stand just behind and to the
+                        left of the soldier in the foreground. The details of three of these figures are very
+                        difficult to distinguish, though it seems clear that all have similar
+                        characteristics. These menacing figures all face left and all wear armor,
+                        helmets, and sandals with legs bare below the knee. The foremost soldier in
+                        this group of figures is pictured with his right arm bent at the elbow, and
+                        grasping a spear or staff in his right hand, the base of which rests on the
+                        ground. The figure directly behind and to the right of this soldier figure
+                        may carry a shield, though the details are not clear. The point of at least
+                        one more spear or staff is visible over the heads of this group of soldiers.
+</illusobjdesc>
                     </component>
                     <component type="object" location="A">
                         <characteristic>sky</characteristic>
@@ -977,7 +977,7 @@ University of North Carolina at Chapel Hill
                         <illusobjdesc>Under the centurion's outstretched right arm and pointing
                             hand, the trunks and branches of at least two trees are visible,
                             probably meant to indicate the forest through which Cicero attempted to
-                            flee Mark Antony's men toward the port of Gaeta. </illusobjdesc>
+                            flee toward the port of Gaeta. </illusobjdesc>
                     </component>
                     <component type="vegetation" location="AB">
                         <characteristic>branch</characteristic>
@@ -1037,8 +1037,8 @@ University of North Carolina at Chapel Hill
                             depicted bending or leaning forward and facing right, with his bare head
                             and neck prominently visible, and situated leaning over the long arm of
                             a structure or vehicle of some sort (probably the litter, or Lectica,
-                            from which he is said to have leaned out of as a surrender to his
-                            execution).</illusobjdesc>
+                            from which he is surrendered to his
+                            executioner).</illusobjdesc>
                     </component>
                     <component type="object" location="BD">
                         <characteristic>frame</characteristic>
@@ -1053,9 +1053,9 @@ University of North Carolina at Chapel Hill
                             right, with his bare head and neck prominently visible, and situated
                             leaning over the long arm of a structure or vehicle of some sort
                             (probably the litter, or Lectica, from which he is said to have leaned
-                            out of as a surrender to his execution). The lectica is depicted with
-                            long arms for Cicero's slaves to support the structure both in front and
-                            behind the conveyance. The Lectica is pictured with a platform and seat
+                            out of as a surrender to his execution). The lectica is depicted with long wooden arms, which 
+                        Cicero's slaves used to carry the structure. 
+ The Lectica is pictured with a platform and seat
                             for a rider to rest in, and a curtained cover, canopy, or roof with
                             cloth drapery or curtains is also visible in this image. </illusobjdesc>
                     </component>
